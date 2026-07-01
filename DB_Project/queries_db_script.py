@@ -3,10 +3,10 @@ from tabulate import tabulate
 
 # -DATABASE CONFIGURATION
 DB_CONFIG = {
-    'user': 'abufanni',
-    'password': 'abufanni1',
-    'host': 'localhost',
-    'database': 'abufanni',
+    'user': '****',
+    'password': '****',
+    'host': '****',
+    'database': '****',
     'port': 3305,
     'raise_on_warnings': True,
     'use_pure': True,
