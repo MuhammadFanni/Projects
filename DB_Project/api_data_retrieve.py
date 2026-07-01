@@ -6,11 +6,11 @@ import os
 
 # DATABASE CONFIGURATION
 DB_CONFIG = {
-    'user': 'abufanni',
-    'password': 'abufanni1',
-    'host': 'localhost',
-    'database': 'abufanni',
-    'port': 3305,
+    'user': '****',
+    'password': '****',
+    'host': '****',
+    'database': '****',
+    'port': ****,
     #  Must be False to allow 'INSERT IGNORE' to work
     'raise_on_warnings': False,
 
