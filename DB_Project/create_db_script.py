@@ -3,11 +3,11 @@ from mysql.connector import errorcode
 
 # DATABASE CONFIGURATION
 DB_CONFIG = {
-    'user': 'abufanni',
-    'password': 'abufanni1',
-    'host': 'localhost',
-    'database': 'abufanni',
-    'port': 3305,
+    'user': '****',
+    'password': '****',
+    'host': '****',
+    'database': '****',
+    'port': ****,
     'raise_on_warnings': True,
     'use_pure': True,
     'connection_timeout': 10
